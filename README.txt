@@ -1,14 +1,13 @@
 
-#Levantar servicios
- - Flume y HDFS con cloudera manager
- - Servicios linux para ganglia: httpd,gmetad,gmond
+#Start services
+ - Start Flume and HDFS using clouder manager
+ - Start Linux services for Ganglia: httpd,gmetad,gmond
 
 
-#Configuracion FLume
+#FLume configuration
 /home/cloudera/Documents/twitter_project/flume_twitter.conf
 
 #Ver Ganglia
- 
 http://localhost/ganglia/
 
 
