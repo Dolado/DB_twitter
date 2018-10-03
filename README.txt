@@ -7,7 +7,7 @@
 #FLume configuration
 /home/cloudera/Documents/twitter_project/flume_twitter.conf
 
-#Ver Ganglia
+#Watch Ganglia
 http://localhost/ganglia/
 
 
